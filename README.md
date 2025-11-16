@@ -65,20 +65,19 @@ This project gave me hands-on experience with **full-stack PHP applications**, e
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/Zaymerstone/Cybersport_Website_Project.git
-2. **Setup a PHP server**  
-   - Use XAMPP, WAMP, or a native Apache/Nginx + PHP setup  
-   - Place the project folder in your server’s `www` or `public_html` directory  
-
-3. **Open in browser**  
-   - Navigate to `http://localhost/your-folder/index.php`  
-
-4. **Configure the database** (if applicable)  
-   - Set up MySQL / SQLite and update the database configuration in your PHP logic files  
-
-5. **Use the app**  
-   - Register → Login → Navigate dashboard / profile → Create/Edit/Delete gaming blog posts
+git clone https://github.com/Zaymerstone/Cybersport_Website_Project.git
 ```
+
+2. **Setup a PHP server**
+- Use XAMPP, WAMP, or a native Apache/Nginx + PHP setup
+- Place the project folder in your server’s www or public_html directory
+3. **Open in browser**
+- Navigate to ```http://localhost/your-folder/index.php```
+4. **Configure the database (if applicable)**
+- Set up MySQL / SQLite and update the database configuration in your PHP logic files
+5. **Use the app**
+- Register → Login → Navigate dashboard / profile → Create/Edit/Delete gaming blog posts
+
 ### 👤 Author
 
 **Nesterov Egor**  
